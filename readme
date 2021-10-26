@@ -1,0 +1,3 @@
+git clone https://github.com/tubobfav/payload-metasploit.git
+cd payload-metasploit
+sudo python3 payload.py
